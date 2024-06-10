@@ -1,0 +1,19 @@
+:root{
+    --background: #21201E;
+    --branco-complementar: #F5F6F1;
+    --cinza-secundário: #EAEAEA;
+    --vermelho-primário: #E50913;
+    --vermelho-secundário: #B81D23;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--branco-complementar);
+    
+}
+
+*{
+    margin: 10;
+    padding: 10;
+}
+
