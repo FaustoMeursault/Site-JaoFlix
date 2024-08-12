@@ -1,0 +1,31 @@
+:root{
+    --background: #21201E;
+    --branco-complementar: #F5F6F1;
+    --cinza-secundário: #EAEAEA;
+    --vermelho-primário: #E50913;
+    --vermelho-secundário: #B81D23;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: var(--background) ;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.logo img{
+    height: 8%;
+    width: 8%;
+
+    margin-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+
+
+
